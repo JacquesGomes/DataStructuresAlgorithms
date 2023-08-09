@@ -1,0 +1,3 @@
+Tratamento de exceção quando há a exclusão da lista, é necessário iniciar uma nova para continuar usando o programa (verificar isso)
+
+Testar casos extremos (exclusão com zero, um, dois e três números, exclusão da head e tail e reinserção, etc)

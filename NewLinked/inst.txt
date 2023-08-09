@@ -1,0 +1,19 @@
+Questão 01 - Conforme visto na aula anterior, implemente uma lista
+simplesmente encadeada em C ou C++ para armazenar valores inteiros
+e que tenha os seguintes métodos:
+● push_front (int valor) - Insere um valor na frente da lista;
+● push_back(int valor) - Insere um valor no fim da lista;
+● pop_front() - Exclui o primeiro elemento da lista;
+● pop_back() - Exclui o último elemento da lista;
+● print() - Imprime a lista completa;
+● remove(int elemento) - Remove o elemento passado como
+parâmetro da função;
+● sizeOf() - retorna o tamanho atual da lista;
+● find(int valor) - Busca um elemento na lista e retorna true caso
+encontrado ou false para falha;
+● delete() - Remove todos os elementos da lista;
+A lista deve ser implementada a partir de um ponteiro declarado na
+main(). Não utilize soluções prontas da linguagem de programação.
+Você pode utilizar registros (structs) ou classes para implementar sua
+lista. Na função main() crie a lista e teste todos os métodos
+desenvolvidos. Utilize os nomes dos métodos conforme a lista acima.
